@@ -1,0 +1,15 @@
+## Overview
+Developed time series forecasting models to predict country-level sales
+performance.
+
+## Key Techniques
+- Trend and seasonality analysis
+- Outlier detection
+- Model explanation and comparison
+
+## Key Insights
+- Forecasted December 2021 sales for US and Germany
+- Identified signal outliers affecting prediction accuracy
+
+## Business Impact
+Supports demand forecasting and proactive planning.
