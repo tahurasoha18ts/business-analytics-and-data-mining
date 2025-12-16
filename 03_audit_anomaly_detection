@@ -1,0 +1,15 @@
+## Overview
+Applied Benford’s Law to transactional sales data to identify anomalies
+and assess potential audit risk.
+
+## Key Techniques
+- Benford’s Law distribution analysis
+- Large-scale data evaluation (170K+ records)
+- Anomaly interpretation
+
+## Key Insights
+- Very few zero-value transactions detected
+- Anomalies were operationally insignificant but worth monitoring
+
+## Business Impact
+Demonstrates audit analytics and risk-based data investigation skills.
