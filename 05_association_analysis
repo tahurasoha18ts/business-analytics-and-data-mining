@@ -1,0 +1,15 @@
+## Overview
+Performed association rule mining to identify meaningful patterns and
+relationships in passenger survival data.
+
+## Key Techniques
+- Support, confidence, and lift
+- Rule strength evaluation
+- Filter tuning
+
+## Key Insights
+- Certain demographic combinations strongly influenced survival outcomes
+- Increasing support and confidence reduced rule volume but improved quality
+
+## Business Impact
+Demonstrates pattern discovery and rule interpretation skills.
