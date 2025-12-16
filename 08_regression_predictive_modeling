@@ -1,0 +1,15 @@
+## Overview
+Built regression models to predict sales quantities and evaluate model
+performance.
+
+## Key Techniques
+- Feature importance analysis
+- RMSE and prediction confidence evaluation
+- Model comparison
+
+## Key Insights
+- Product category was the strongest predictor
+- Final model achieved high predictive confidence with low error
+
+## Business Impact
+Demonstrates predictive modeling and decision-support capabilities.
