@@ -1,0 +1,15 @@
+## Overview
+Used clustering techniques to segment retail stores based on performance
+and operational characteristics.
+
+## Key Techniques
+- Unsupervised clustering
+- Cluster comparison and profiling
+- Store-level performance analysis
+
+## Key Insights
+- Identified three distinct store clusters
+- One cluster contained the majority of stores with moderate performance
+
+## Business Impact
+Cluster insights can guide targeted marketing and operational strategies.
