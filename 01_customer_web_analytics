@@ -1,0 +1,17 @@
+## Overview
+Analyzed customer website behavior to understand factors influencing sales
+performance and transaction value.
+
+## Key Techniques
+- Descriptive statistics
+- Aggregation by day of week and browser type
+- Correlation analysis
+
+## Key Insights
+- Fridays generated the highest traffic and revenue
+- Strong positive relationship between pages viewed and amount spent
+- Firefox users showed higher average transaction value
+
+## Business Impact
+Insights can be used to optimize marketing timing, website engagement,
+and browser-specific performance improvements.
